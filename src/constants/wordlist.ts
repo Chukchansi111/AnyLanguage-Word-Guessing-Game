@@ -2,7 +2,7 @@ import { CONFIG } from './config'
 
 export const WORDS = [
   "ʔadil'",
-  "bayin"
+  "bayin",
   'danix',
   
 ]
