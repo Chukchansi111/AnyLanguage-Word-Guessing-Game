@@ -2,8 +2,9 @@ import { CONFIG } from './config'
 
 export const VALIDGUESSES = [
   "ʔadil'",
-  "bayin"
+  "bayin",
   'danix',
+  'daʔit',
 ]
 
 if (CONFIG.normalization) {
