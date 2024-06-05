@@ -4,7 +4,7 @@ export const WORDS = [
   "ʔadil'",
   "bayin",
   'danix',
-  
+  'daʔit',
 ]
 
 if (CONFIG.normalization) {
