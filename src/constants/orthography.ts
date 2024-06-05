@@ -7,6 +7,7 @@ export const ORTHOGRAPHY = [
   'i',
   'l',
   'n',
+  't',
   'x',
   'ʔ',
   "'",
